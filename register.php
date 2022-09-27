@@ -52,3 +52,4 @@ require 'action/registerAction.php';
 <div class="sign">
    <p>Déjà membre ? <a href="login.php">Connexion.</a></p> 
 </div>
+<?php  require 'inc/footer.php';?>

@@ -37,5 +37,4 @@ require 'action/loginAction.php';
    <p>Vous n'avez pas de compte ? <a href="register.php">S'inscrire.</a></p> 
 </div>
 
-</body>
-</html>
+<?php  require 'inc/footer.php';?>

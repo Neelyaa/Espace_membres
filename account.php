@@ -21,3 +21,4 @@ require 'action/accountAction.php';
 <a href="logout.php">Se déconnecter</a>
 </div>
 </div>
+<?php  require 'inc/footer.php';?>

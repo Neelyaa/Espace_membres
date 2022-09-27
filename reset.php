@@ -25,3 +25,4 @@ require 'action/resetAction.php';
 
     </form>
 </div>
+<?php  require 'inc/footer.php';?>

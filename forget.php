@@ -19,3 +19,4 @@ require 'action/forgetAction.php';
      <a href="index.php" class="back"> <i class="fa-solid fa-reply"></i> Accueil</a>
     </form>
 </div>
+<?php  require 'inc/footer.php';?>
